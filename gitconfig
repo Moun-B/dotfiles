@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = eljmounir@gmail.com
+	name = Mounir EL JAMGHILI
